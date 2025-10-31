@@ -78,7 +78,7 @@ This project showcases my ability to handle heterogeneous datasets, implement re
       {/* 🏠 Hero Section */}
       <section
         id="home"
-        className="min-h-screen flex flex-col md:flex-row items-center justify-center bg-gradient-to-br from-gray-900 via-black to-gray-800 text-white px-6 md:px-16 py-20"
+        className="min-h-screen flex flex-col md:flex-row items-center justify-center  from-gray-900 via-black to-gray-800 text-white px-6 md:px-16 py-20"
       >
         {/* 🖼️ Profile Image */}
         <motion.div
@@ -88,7 +88,7 @@ This project showcases my ability to handle heterogeneous datasets, implement re
           className="md:w-[45%] flex justify-center mt-12 md:mt-0"
         >
           <div className="relative">
-            <div className="absolute -inset-1 bg-gradient-to-r from-red-600 to-pink-500 rounded-full blur opacity-70 animate-pulse"></div>
+            <div className="absolute -inset-1 from-red-600 to-pink-500 rounded-full blur opacity-70 animate-pulse"></div>
             <img
               src="/images/nrimen.png"
               alt="Noure portrait"
